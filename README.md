@@ -17,10 +17,7 @@ The project introduces a framework that combines Quantum Circuit Evolution with 
 - `qce_acf.py`: Main implementation of the Quantum Circuit Evolution with Adaptive Cost Function algorithm
 - `_utility.py`: Utility functions and helper methods
 - `notebook.ipynb`: Jupyter notebook containing the main implementation and examples
-- `plots.ipynb`: Notebook for generating and analyzing results plots
 - `instances_benchmark/`: Directory containing benchmark instances for testing
-- `res/`: Directory for storing results and outputs
-- `others/`: Additional resources and supplementary materials
 
 ## Reference
 
